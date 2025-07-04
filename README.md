@@ -11,11 +11,13 @@ Task_A:
     -inference.py
     -model.pth
     -train.py
+    -scores.csv
 
 Task_B:
     -inference.py
     -model.pth
     -train.py
+    -scores.csv
 
 README.md
 requirements.txt
